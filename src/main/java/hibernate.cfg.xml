@@ -8,6 +8,6 @@
 			<property name="connection.password">LabasRytas</property>
 			<property name="dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
 			<property name="show_sql">true</property>
-			<mapping class="" />
+			
 	</session-factory>
 </hibernate-configuration>
